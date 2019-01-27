@@ -1,0 +1,2 @@
+0,GET FOLLOWERS DETAILS,*,*,whose follwers?,a_redisbot.aiml
+0,*,WHOSE FOLLWERS?,*,REDIS#Commahttp://127.0.0.1:8090/redis/<star/>,a_redisbot.aiml

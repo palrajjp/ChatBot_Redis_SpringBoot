@@ -1,0 +1,1 @@
+0,SEARCH WEATHER *,*,*,<think><set name="weburl">http://www.weather-forecast.com/locations/<star/>/forecasts/latest</set></think>#Newline            <srai>XOPENWEBURL</srai>#Newline            I hope it's sunny in <star/> today.,redis-api-entrya.aiml
